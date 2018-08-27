@@ -1,8 +1,7 @@
     
     <section class="body">
     <figure class="right">
-    <img class="right" src="images/manchester_th.jpg" alt="Manchester Town Hall Staircase" width="350"/>
-    <!--img class="right" src="images/manchester_view.jpg" alt="A view of Manchester" width="400" /--!>
+    <img class="right" src="images/valencia1.jpg" alt="A view of Valenciar" width="350" />
     </figure>
 
     <aside id="news">
