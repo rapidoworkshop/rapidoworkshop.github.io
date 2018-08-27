@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Rapido'18</title>
+    <link rel="stylesheet" href="css/main.css" type="text/css" />
+  </head>
+  <body>
+    <header id="banner" class="body">
+    <figure>
+    <a href="http://www.rapido.deib.polimi.it"><img src="images/rapido_trans.png" alt="RAPIDO'18" /></a>
+    <a href="http://www.hipeac.net/conference"><img src="images/HiPEAC-transparent-smaller.png" alt="HiPEAC" /></a>
+    </figure>
+    <h1>
+      <a href="index.html">RAPIDO'18<br />
+        <strong>10th Workshop on<br />
+          Rapid Simulation and Performance Evaluation:<br />
+          Methods and Tools<br />
+          January 23, 2018, Manchester, United Kingdom</strong></a>
+    </h1>
+    <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <!--<li class="active"><a href="#">Home</a></li>-->
+      <li><a href="cfp.html">Call for papers</a></li>
+      <li><a href="keynote.html">Invited speakers</a></li>
+      <li><a href="tpc.html">Committees</a></li>
+      <li><a href="program.html">Program</a></li>
+      <li><a href="previous.html">Previous editions</a></li>
+      <li><a href="reg.html">Registration & Venue</a></li>
+    </ul>
+    </nav>
+    </header>
+
+    <section class="body">
+    <p>During the RAPIDO workshop some relevant personalities of our community will held a keynote.
+    <!--Here you will find this year speakers and the topic of their talk.<br/>-->
+    </p>
+    
+   <ul>
+      <li><a href="#Speaker1">Invited speaker: Nikil DUTT, UC Irvine</a></li>
+      <li><a href="#Speaker2">Invited speaker: Alberto BOSIO, LIRMM </a></li>
+      <li><a href="#Speaker3">Invited speaker: Guy Bois, Polytechnique Montréal and President of Space Codesign Systems </a></li>
+      <li><a href="#Speaker4">Invited speaker: Tim Kogel, Synopsys </a></li>
+    </ul>
+    <a name="Speaker1"></a>
+    <h2>
+	<strong>
+    Self-Awareness for Heterogeneous MPSoCs:A Case Study using Adaptive, Reflective Middleware
+	</strong><br/>	    
+	by Nikil DUTT, UC Irvine
+    </h2>
+    <p>
+    <strong>Abstract</strong> 
+    Self-awareness has a long history in biology, psychology, medicine, engineering and (more recently) computing. In the past decade this has inspired new self-aware strategies for emerging computing substrates (e.g., complex heterogeneous MPSoCs) that must cope with the (often conflicting) challenges of resiliency, energy, heat, cost, performance, security, etc. in the face of highly dynamic operational behaviors and environmental conditions.  Earlier we had championed the concept of CyberPhysical-Systems-on-Chip (CPSoC), a new class of sensor-actuator rich many-core computing platforms that intrinsically couples on-chip and cross-layer sensing and actuation to enable self-awareness. Unlike traditional MPSoCs, CPSoC is distinguished by an intelligent co-design of the control, communication, and computing (C3) system that interacts with the physical environment in real-time in order to modify the system’s behavior so as to adaptively achieve desired objectives and Quality-of-Service (QoS). The CPSoC design paradigm enables self-awareness (i.e., the ability of the system to observe its own internal and external behaviors such that it is capable of making judicious decision) and (opportunistic) adaptation using the concept of cross-layer physical and virtual sensing and actuations applied across different layers of the hardware/software system stack. The closed loop control used for adaptation to dynamic variation -- commonly known as the observe-decide-act (ODA) loop -- is implemented using an adaptive, reflective middleware layer.
+    
+    In this talk I will present a case study of this adaptive, reflective middleware layer using a holistic approach for performing resource allocation decisions and power management by leveraging concepts from reflective software. Reflection enables dynamic adaptation based on both external feedback and introspection (i.e., self-assessment). In our context, this translates into performing resource management actuation considering both sensing information (e.g., readings from performance counters, power sensors, etc.) to assess the current system state, as well as models to predict the behavior of other system components before performing an action. I will summarize results leveraging our adaptive-reflective middleware toolchain to i) perform energy-efficient task mapping on heterogeneous architectures, ii) explore the design space of novel HMP architectures, and iii) extend the lifetime of mobile devices.
+    </p>
+    <p>
+    <strong>Short CV</strong>
+Nikil D. Dutt is a Chancellor’s Professor at the University of California, Irvine, with academic appointments in the CS, EECS, and Cognitive Sciences departments.  He received a B.E.(Hons) in Mechanical Engineering from the Birla Institute of Technology and Science, Pilani, India in 1980, an M.S. in Computer Science from the Pennsylvania State University in 1983, and a Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign in 1989. He is affiliated with the following Centers at UCI: Center for Embedded Computer Systems (CECS), Center for Cognitive Neuroscience and Engineering (CENCE), California Institute for Telecommunications and Information Technology (Calit2), the Center for Pervasive Communications and Computing (CPCC), and the Laboratory for Ubiquitous Computing and Interaction (LUCI). Professor Dutt’s research interests are in embedded systems, electronic design automation, computer architecture, optimizing compilers, system specification techniques, distributed systems, formal methods, and brain-inspired architectures and computing.    
+
+    </p>
+
+    <a name="Speaker2"></a>
+    <h2>
+	<strong>
+		Cross-Layer system-level reliability Estimation
+        </strong><br/>	    
+	by Alberto BOSIO, LIRMM
+    </h2>
+    <p>
+    <strong>Abstract</strong>
+Cross-layer approach is becoming the preferred solution when reliability is a concern in the design of a microprocessor-based system. Nevertheless, deciding how to distribute the error management across the different layers of the system is a very complex task that requires the support of dedicated frameworks for cross-layer reliability analysis. In other words, the designer has to know what are the “critical” components of the system in order to properly introduce error management mechanisms. Unfortunately, system-level reliability estimation is a complex task that usually requires huge simulation campaign. This presentation aims at proposing a cross-layer system-level reliability analysis framework for soft-errors in microprocessor-based systems. The framework exploits a multi-level hybrid Bayesian model to describe the target system and takes advantage of Bayesian inference to estimate different reliability metrics.  
+Experimental results, carried out on different microprocessor architectures (i.e., Intel x86, ARM Cortex-A15, ARM Cortex-A9), show that the simulation time is significantly lower than state-of-the-art fault-injection experiments with an accuracy high enough to take effective design decision.
+    </p>
+  <p>
+    <strong>Short CV</strong>
+Alberto Bosio received the PhD in Computer Engineering from Politecnico di Torino in Italy in 2006 and the HDR (Habilitation Diriger les Recherches) in 2015 from the University of Montpellier (France). Currently he is an associate professor in the Laboratory of Informatics, Robotics and Microelectronics of Montpellier (LIRMM)-University of Montpellier 2 in France. He has published articles in publications spanning diverse disciplines, including memory testing, fault tolerance, diagnosis and functional verification. He is an IEEE member.
+    </p>
+  
+
+    <a name="Speaker3"></a>
+    <h2>
+	<strong>
+Specific needs for the modelling and the refinement of CPU and FPGA platforms
+        </strong><br/>	    
+	by Guy Bois, Polytechnique Montréal and President of Space Codesign Systems 
+    </h2>
+    <p>
+    <strong>Abstract</strong>
+We are currently witnessing a trend in the democratization of tightly coupled CPU+FPGA platforms to a wider population of users, such as the software developer community. In this context, we present  a system design flow process targetting  CPU and FPGA platforms. After an overview of existing modelling approaches and their limitations for FPGA, we present our  methodology based on C/C++ specifications that automatically generates virtual platform for different Hw/Sw partitioning, while integrating monitoring and analysis capabilities for performance profiling. We also show how we can achieve the architectural implementation (complete system generation for the physical platform), mainly by leveraging tools from FPGA vendors that perform the low-level synthesis and the bitstream generation.
+</p>
+  <p>
+    <strong>Short CV</strong>
+Guy Bois, Ing., PhD is the Founder of Space Codesign Systems and Professor in the Department of Software and Computer Engineering of Polytechnique Montréal. Guy has participated in many R&D projects in collaboration with industry leaders such as STMicroelectronics, Grass Valley, PMC Sierra, Design Workshops Technologies, and Cadabra Systems. Guy's research expertise in the field of hardware/software codesign led to the commercialization of the solution and the inception of SpaceStudio from Space Codesign Systems Inc. 
+
+    </p>
+    <a name="Speaker4"></a>
+    <h2>
+	<strong>
+Building Smart SoCs - Using Virtual Prototyping for the Design of SoCs with Artificial Intelligence Accelerators
+        </strong><br/>	    
+	by Tim Kogel, Synopsys
+    </h2>
+    <p>
+    <strong>Abstract</strong>
+Artificial Intelligence enables a whole new range of applications in the areas of Virtual and Augmented Reality, robotics, IoT, healthcare, mobile, automotive, and others. In particular, Deep Neural Networks (DNNs) have enabled quantum leaps in brain-like functions such as speech and image recognition.
+The design of tailored SoC platforms for training and inference of Artificial Intelligence applications is very challenging. The fast pace of innovation and differentiation of AI applications requires high flexibility in the underlying architecture to support evolving AI algorithms with varying number of layers, filters, channels, and filter sizes. Also, the execution of AI algorithms like Neural Network graphs requires very high computational performance and memory bandwidth. In addition to flexibility and performance, embedded applications, especially mobile devices, need to have low power consumption.
+As Moore’s Law does no longer deliver 2x transistors every 2 years at same price, the necessary improvements in power, performance, and flexibility need to come from better architectures:
+- Customization of the micro-architecture to the algorithmic kernels
+- Designing the macro-architecture with the right level of block-level parallelism to achieve the desired throughput.
+- Selecting the best data flow for the Neural Network based on the data handling characteristics.
+- Optimizing the implementation of the data transfers with tailored DMA engines and local buffering to get the most out of the limited bandwidth to the external memory.
+The last item is particularly important, because most Neural Network algorithms are memory-bandwidth limited. This presentation will show, how Virtual Prototyping can help to design accelerators for Artificial Intelligence and integrate them into the SoC context.
+ </p>
+  <p>
+    <strong>Short CV</strong>
+Tim Kogel is a Solution Architect for Virtual Prototyping in the Synopsys Verification Group. He received his diploma and PhD degree in electrical engineering with honors from Aachen University of Technology (RWTH), Aachen, Germany, in 1999 and 2005 respectively. He has authored a book and numerous technical and scientific publications on electronic system-level design of multi-processor system-on-chip platforms. At Synopsys Tim is responsible for the product definition and future direction of Synopsys' SystemC-based Virtual Prototyping product family.
+    </p>
+    </section>
+
+
+
+    <footer id="contentinfo" class="body">
+    <!-- p align="center">Contacts:<br />
+    <contact>Gianluca Palermo (gianluca dot palermo at polimi dot it), Politecnico di Milano, Italy<br />
+    Daniel Gracia Pérez (daniel dot gracia-perez at thalesgroup dot com), Thales Research & Technology, France</contact>    
+    </p--!>
+    <a href="http://www.rapido.deib.polimi.it"><img src="images/rapido_trans.png" alt="RAPIDO'17" width=120px /></a>
+    <a href="http://www.hipeac.net/conference"><img src="images/HiPEAC-transparent-smaller.png" alt="HiPEAC" width=120px /></a>
+    </footer>
+
+  </body>
+</html>
