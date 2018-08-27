@@ -1,0 +1,12 @@
+
+    <footer id="contentinfo" class="body">
+    <!-- p align="center">Contacts:<br />
+    <contact>Gianluca Palermo (gianluca dot palermo at polimi dot it), Politecnico di Milano, Italy<br />
+    Daniel Gracia Pérez (daniel dot gracia-perez at thalesgroup dot com), Thales Research & Technology, France</contact>    
+    </p--!>
+    <a href="http://www.rapido.deib.polimi.it"><img src="images/rapido_trans.png" alt="RAPIDO'19" width=120px /></a>
+    <a href="http://www.hipeac.net/conference"><img src="images/HiPEAC-transparent-smaller.png" alt="HiPEAC" width=120px /></a>
+    </footer>
+
+  </body>
+</html>

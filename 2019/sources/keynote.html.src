@@ -1,0 +1,78 @@
+    <section class="body">
+    <p>During the RAPIDO workshop some relevant personalities of our community will held a keynote.
+    <!--Here you will find this year speakers and the topic of their talk.<br/>-->
+    </p>
+    
+   <ul> 
+      <li><a href="#Speaker1">Invited speaker: First Name, Last Name, Affilliation</a></li>
+      <li><a href="#Speaker2">Invited speaker: First Name, Last Name, Affilliation</a></li>
+      <li><a href="#Speaker3">Invited speaker: First Name, Last Name, Affilliation</a></li>
+      <li><a href="#Speaker4">Invited speaker: First Name, Last Name, Affilliation</a></li>
+    </ul>
+    <a name="Speaker1"></a>
+    <h2>
+	<strong>
+		Title TBD
+	</strong><br/>	    
+	by First Name, Last Name, Affilliation
+    </h2>
+    <p>
+    <strong>Abstract</strong> 
+	Abstract TBD
+    </p>
+    <p>
+    <strong>Short CV</strong>
+	CV TBD
+    </p>
+
+     <a name="Speaker2"></a>
+    <h2>
+	<strong>
+		Title TBD
+	</strong><br/>	    
+	by First Name, Last Name, Affilliation
+    </h2>
+    <p>
+    <strong>Abstract</strong> 
+	Abstract TBD
+    </p>
+    <p>
+    <strong>Short CV</strong>
+	CV TBD
+    </p>
+
+    <a name="Speaker3"></a>
+    <h2>
+	<strong>
+		Title TBD
+	</strong><br/>	    
+	by First Name, Last Name, Affilliation
+    </h2>
+    <p>
+    <strong>Abstract</strong> 
+	Abstract TBD
+    </p>
+    <p>
+    <strong>Short CV</strong>
+	CV TBD
+    </p>
+
+    <a name="Speaker4"></a>
+    <h2>
+	<strong>
+		Title TBD
+	</strong><br/>	    
+	by First Name, Last Name, Affilliation
+    </h2>
+    <p>
+    <strong>Abstract</strong> 
+	Abstract TBD
+    </p>
+    <p>
+    <strong>Short CV</strong>
+	CV TBD
+    </p>
+
+   </section>
+
+
