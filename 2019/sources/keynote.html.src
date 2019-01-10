@@ -4,74 +4,74 @@
     </p>
     
    <ul> 
-      <li><a href="#Speaker1">Invited speaker: First Name, Last Name, Affilliation</a></li>
-      <li><a href="#Speaker2">Invited speaker: First Name, Last Name, Affilliation</a></li>
-      <li><a href="#Speaker3">Invited speaker: First Name, Last Name, Affilliation</a></li>
-      <li><a href="#Speaker4">Invited speaker: First Name, Last Name, Affilliation</a></li>
+      <li><a href="#Speaker1">Invited speaker: Andreas Herkersdorf, TU-Munich</a></li>
+      <li><a href="#Speaker2">Invited speaker: Anton Lokhmotov, Dividiti</a></li>
+      <li><a href="#Speaker3">Invited speaker: Amir Charif, CEA</a></li>
+      <li><a href="#Speaker4">Invited speaker: Katerina Slaninova, IT4Innovation</a></li>
     </ul>
     <a name="Speaker1"></a>
     <h2>
 	<strong>
-		Title TBD
+	Self­aware/self­organizing MPSoC on the basis of predictable machine learning
 	</strong><br/>	    
-	by First Name, Last Name, Affilliation
+	by Andreas Herkersdorf, TU-Munich
     </h2>
-    <p>
+    <!--p>
     <strong>Abstract</strong> 
 	Abstract TBD
     </p>
     <p>
     <strong>Short CV</strong>
 	CV TBD
-    </p>
+    </p-->
 
      <a name="Speaker2"></a>
     <h2>
 	<strong>
 		Title TBD
 	</strong><br/>	    
-	by First Name, Last Name, Affilliation
+	by Anton Lokhmotov, Dividiti
     </h2>
-    <p>
+    <!--p>
     <strong>Abstract</strong> 
 	Abstract TBD
     </p>
     <p>
     <strong>Short CV</strong>
 	CV TBD
-    </p>
+    </p-->
 
     <a name="Speaker3"></a>
     <h2>
 	<strong>
-		Title TBD
+Ultra­fast virtualization and simulation tools to meet the future needs of the industry	
 	</strong><br/>	    
-	by First Name, Last Name, Affilliation
+	by Amir Charif, CEA
     </h2>
-    <p>
+    <!--p>
     <strong>Abstract</strong> 
 	Abstract TBD
     </p>
     <p>
     <strong>Short CV</strong>
 	CV TBD
-    </p>
+    </p-->
 
     <a name="Speaker4"></a>
     <h2>
 	<strong>
-		Title TBD
+Advanced Simulator for Smart City Traffic Flow Optimisation
 	</strong><br/>	    
-	by First Name, Last Name, Affilliation
+	by Katerina Slaninova, IT4Innovation
     </h2>
-    <p>
+    <!--p>
     <strong>Abstract</strong> 
 	Abstract TBD
     </p>
     <p>
     <strong>Short CV</strong>
 	CV TBD
-    </p>
+    </p--!>
 
    </section>
 
