@@ -16,11 +16,13 @@
 	</strong><br/>	    
 	by Andreas Herkersdorf, TU-Munich
     </h2>
-    <!--p>
-    <strong>Abstract</strong> 
-	Abstract TBD
-    </p>
     <p>
+    <strong>Abstract</strong> 
+	Multicore technology plays a pivotal role for conquering key societal challenges. Safe, ecological mobility, wide-spread rollout of e-health, smart industrial automation and the development of a secure, high-bandwidth, low-latency mobile communication infrastructure, all these cyber physical application domains critically depend on high-performance, low power and dependable computing. The hardware / software complexity of these advanced computing platforms, with Millions of lines of code, tens of processing cores, heterogeneous accelerators, diverse I/O and memory interfaces, span a design space which no longer allows for exhaustive exploration with classical design time simulation and formal verification methods. However, that’s not yet it. Platform uncertainties, arising from variability in semiconductor production, long term aging effects and/or imprecise models, as well as application uncertainties, either from a lack of application knowledge or short term application load dynamics, further increase uncertainties in the expected / required system behavior. 
+
+Instead of using a limited number of pre-defined system operating points determined at design time, we suggest employing run-time architecture adaptation by controlling platform dynamics with a combination of self-aware/self-organizing machine learning techniques with formal reactive methods in order to provide platform worst-case real-time and safety guarantees. The MPSoC shall be enabled to autonomously adjust critical operation parameters, such as core frequency, supply voltage, task to core mapping, for the sake of working around permanent and transient defects and adjusting to varying environmental conditions and workloads. We envision two layers of hierarchical control, a hardware-based reinforcement machine learning entity consisting of learning classifier tables and a software-based supervisory control for handling system-wide objectives on longer time intervals. A proof of concept for the approach has been achieved with SystemC-based simulations and FPGA prototype implementation measurements for video processing and IP (Internet Packet) forwarding applications. The presented concept represents ongoing collaborative work by UC Irvine, US, TU Braunschweig and TU Munich, DE, in which we combine our past projects experience with self-awareness and self-organization at hardware and software layers of cyber physical multicore platforms. 
+    </p>
+    <!--p>
     <strong>Short CV</strong>
 	CV TBD
     </p-->
@@ -28,15 +30,26 @@
      <a name="Speaker2"></a>
     <h2>
 	<strong>
+Community-driven benchmarking of AI/ML systems; the ReQuEST and MLPerf initiatives.
 		Title TBD
 	</strong><br/>	    
 	by Anton Lokhmotov, Dividiti
     </h2>
-    <!--p>
     <strong>Abstract</strong> 
-	Abstract TBD
-    </p>
     <p>
+We've been crusading for community-driven benchmarking for over a
+decade, so we are pleased to see that kindred ideas are beginning to
+capture imagination of a broad community interested in benchmarking
+AI/ML systems (models/software/hardware). As we see it, community
+involvement implies using at least three good things: representative
+workloads, rigorous and fair methodology, and state-of-the-art
+workflow automation. In this talk, I'll describe our experience with
+organizing the first Reproducible Quality-Efficient Systems Tournament
+(ReQuEST @ ASPLOS'18: http://cknowledge.org/request), and contributing
+to the new MLPerf initiative (http://mlperf.org).
+
+    </p>
+    <!--p>
     <strong>Short CV</strong>
 	CV TBD
     </p-->
@@ -48,11 +61,11 @@ Ultra­fast virtualization and simulation tools to meet the future needs of the 
 	</strong><br/>	    
 	by Amir Charif, CEA
     </h2>
-    <!--p>
+    <p>
     <strong>Abstract</strong> 
 	Abstract TBD
     </p>
-    <p>
+    <!--p>
     <strong>Short CV</strong>
 	CV TBD
     </p-->
@@ -64,11 +77,11 @@ Advanced Simulator for Smart City Traffic Flow Optimisation
 	</strong><br/>	    
 	by Katerina Slaninova, IT4Innovation
     </h2>
-    <!--p>
-    <strong>Abstract</strong> 
-	Abstract TBD
-    </p>
     <p>
+    <strong>Abstract</strong> 
+Optimisation of traffic flow is one of the topics discussed within the Smart City domain. We will present an enhanced real-time traffic simulator running on High Performance Computing infrastructure for testing efficiency and usability of a self-adaptive navigation system which implements a traffic flow optimization service. Building blocks of the simulator include a server-side navigation system, Virtual Smart City World, benchmark settings, and simplified simulation of vehicles. The important feature of the simulator is the ability to evaluate the traffic flow control strategy in the Smart City world, both with and without enabled Global View calculation of a traffic network for a given percentage of vehicles connected to the server-side service.
+    </p>
+    <!--p>
     <strong>Short CV</strong>
 	CV TBD
     </p--!>
