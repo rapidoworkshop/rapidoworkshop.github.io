@@ -1,0 +1,49 @@
+    <section class="body">
+    <h2>Topics of interest include, but are not limited to:</h2>
+    <ul>
+      <li>Rapid simulation techniques especially those targeted at new
+      architectures: Multi-cores, 3D-architectures, FPGA based heterogeneous
+      Multi-cores/MPSoC, ...etc;</li>
+      <li>Variability and power/energy consumption in performance estimation and
+      simulation techniques;</li>
+      <li>High-level abstraction modeling, e.g., Transactional Level Modeling
+      (TLM), Analytical Modeling, Trace-Driven Simulation, ...etc;</li>
+      <li>Rapid design space exploration (DSE) for heterogeneous and embedded
+      systems;</li>
+      <li>Dynamic binary translation for fast simulation and DSE;</li>
+      <li>Experience reports using existing simulators;</li>
+      <li>Benchmarking and simulator validation.</li>
+    </ul>
+
+    <h3>Paper Formatting Instructions</h3>
+    <p>Electronic paper submission requires a full paper, up to 6 double-column
+    ACM format pages, including figures and references. Up to 2 extra-pages can be requested 
+    for free to the organizing commettee (gianluca dot palermo at polimi dot it).
+    Please use the following template when preparing your manuscript:
+    <a
+      href="http://www.acm.org/sigs/publications/proceedings-templates">http://www.acm.org/sigs/publications/proceedings-templates</a>
+    </p>
+    <p>Accepted papers will be published in the ACM digital library.</p>
+    <h2>Paper Electronic Submission</h2>
+    <p>The paper submission will be conducted using the EasyChair conference
+    manager.
+    Papers should be submitted in PDF format.
+    <br />
+    You will find the submission site for papers at:
+    <a href="https://www.easychair.org/conferences/?conf=rapido20">
+      https://www.easychair.org/conferences/?conf=rapido20</a> .
+    </p>
+
+    <h2>Important dates</h2>
+    <ul>
+      <li>Papers submission deadline: <strong> Nov. 14, 2019</strong></li>
+      <li>Papers notification to authors: <strong>Dec 1, 2019</strong></li>
+      <li>Final version of accepted papers: <strong>Dec 7, 2019</strong></li>
+    </ul>
+    <!--h2>Call for papers, PDF version</h2>
+    <p>You can download a PDF version of the RAPIDO'20 call for papers
+    from <a href="images/CFP20.pdf">here</a>.
+    </p--!>
+    </section>
+
+
