@@ -65,7 +65,8 @@ Mega-Modeling and Model-Driven Performance Analysis of CPSoS	</strong><br/>
 Eugenio Vilar - University of Cantabria    </h2>
     <p>
     <strong>Abstract</strong> 
-NA
+Model Based Design (MBD) has proven to be a powerful technology to address the development of increasingly complex embedded systems. Beyond complexity itself, challenges come from the need to target various execution platforms with different OSs and HW resources, even bare-metal, the increasing parallelism provided by them and its increasing heterogeneity. An additional difficulty comes from the tendency towards system applications in which the embedded system is only a piece of a much complex, distributed system. In any case, appropriate solutions improving performance,power consumption, cost, etc. have to be analyzed and selected. Addressing these challenges require flexible design technologies able to support from a single-source model its architectural mapping to
+different computing resources, of different kind and in different platforms. Thanks the potential of MBD methods and tools they should ensure flexibility and reusability. In this presentation, S3D, a UML/MARTE system modeling methodology is proposed able to address the challenges mentioned above by improving flexibility and scalability. This approach is illustrated and demonstrated on a flight management system. The model is flexible enough to be adapted to different architectural solutions with a minimal effort by changing its underlying model of Computation and Communication (MoCC). Being completely Platform Independent, from the same model it is possible to explore and generate various solutions on different execution platforms.
     </p>
     <p>
     <strong>Short CV</strong>
