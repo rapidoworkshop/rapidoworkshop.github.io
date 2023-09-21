@@ -1,0 +1,39 @@
+
+<section class="body">
+<h2>Schedule (DIAMANT ROOM):</h2>
+<h4>
+<h3>Session 1: Keynote Session : 10:00-10:45 am</h3>
+ZeBu Hybrid Emulation: Shift-left your Architecture Exploration, Software Development and System Validation with Synopsys Hybrid Solutions - Alejandro Nocua, Synopsys.
+<h3>Session 2: Papers Session : 10:50-12:30</h3>
+10:50: Non-intrusive runtime monitoring for manycore prototypes,
+Fabian Lesniak, Juergen Becker, Nidhi Anantharajaiah and Tanja Harbaum
+<br/>
+11:15: Faster Functional Simulation With Cache Merging,
+Gustaf Borgström, Christian Rohner and David Black-Schaffer
+<br/>
+11:40: Fast Instruction Cache Simulation is Trickier than You Think,
+Marie Badaroux, Julie Dumas and Frederic Petrot
+<br/>
+12:05: Automatic DRAM Subsystem Configuration with irace,
+Lukas Steiner, Gustavo Delazeri, Iron Prando Da Silva, Matthias Jung and Norbert Wehn
+<br/>
+<h3>Session 3: Keynote Session : 14:00-14:45 am</h3>
+Challenges in modeling HPC SoCs: An experience report on using Gem5 - Manolis Marazakis and Polydoros Petrakis, FORTH </h3>
+<h3>
+Session 4: Papers Session : 14:50-16:30</h3>
+14:50: Entropy-Based Analysis of Benchmarks for Instruction Set Simulators,
+Nils Bosbach, Lukas Jünger, Rebecca Pelke, Niko Zurstraßen and Rainer Leupers
+<br/>
+15:15: Datapath Optimization for Embedded Signal Processing Architectures utilizing Design Space Exploration,
+Johannes Knödtel and Marc Reichenbach
+<br/>
+15:40: An Analytical Model of Configurable Systolic Arrays to find the best-fitting Accelerator for a given DNN Workload,
+Tim Hotfilter, Patrick Schmidt, Julian Höfer, Fabian Kreß, Tanja Harbaum and Juergen Becker
+<br/>
+16:05: Fast-Yet-Accurate Timing and Power Prediction of Artificial Neural Networks Deployed on Clock-Gated Multi-Core Platforms,
+Quentin Dariol, Le Nours Sébastien, Domenik Helms, Ralf Stemmer, Sebastien Pillement and Kim Gruettner11:30 - 12:30 Session 2</h3>
+<br/>
+<h3>End of workshop<br/></h3>
+</h4>
+</section>
+
