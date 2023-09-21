@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Rapido'23</title>
+    <title>Rapido'24</title>
     <link rel="stylesheet" href="css/main.css" type="text/css" />
   </head>
   <body>
@@ -10,10 +10,10 @@
     <figure>
     <a href="https://rapidoworkshop.github.io/"><img src="images/rapido_trans.png" alt="RAPIDO'23" /></a>
     <!--a href="http://www.hipeac.net/conference"><img src="images/HiPEAC-transparent-smaller.png" alt="HiPEAC" /></a-->
-    <a href="https://www.hipeac.net/2023/toulouse/"><img src="images/HiPEAC-transparent-smaller.png" alt="HiPEAC" /></a>
+    <a href="https://www.hipeac.net/2024/munich/"><img src="images/HiPEAC-transparent-smaller.png" alt="HiPEAC" /></a>
     </figure>
     <h1>
-      <a href="index.html">RAPIDO'23<br />
+      <a href="index.html">RAPIDO'24<br />
         <strong>15th Workshop on<br />
           Rapid Simulation and Performance Evaluation for Design Optimization: Methods and Tools<br />
           January 17-19, 2024, Munich, Germany</strong></a>
