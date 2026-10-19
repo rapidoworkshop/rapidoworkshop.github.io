@@ -31,9 +31,10 @@ Digital twin versus simulation for systems validation and verification
     for free to the organizing commettee (gianluca dot palermo at polimi dot it).
     Please use the following template when preparing your manuscript:
     <a
-      href="http://www.acm.org/sigs/publications/proceedings-templates">http://www.acm.org/sigs/publications/proceedings-templates</a>
+       href="https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex">https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex</a>
     </p>
-    <p>Accepted papers will be published in the ACM digital library.
+    <p><!--Accepted papers will be published in the ACM digital library.-->
+We would be able to  publish in the ACM digital library. 
 <strong> It should be noted that additional variable fees will be required for each paper if the contact author institution has not signed agreement with ACM, otherwise proceeding edition is free. </strong> Please refer to ACM website <a href="https://libraries.acm.org/acmopen/open-participants"> href="https://libraries.acm.org/acmopen/open-participants"</a> to verify if your institution is listed in the ACM Open Global Participation.</p>
     <h2>Paper Electronic Submission</h2>
     <p>The paper submission will be conducted using the EasyChair conference
@@ -41,20 +42,20 @@ Digital twin versus simulation for systems validation and verification
     Papers should be submitted in PDF format.
     <br />
     You will find the submission site for papers at:
-    <a href="https://easychair.org/conferences/?conf=rapido2026">
-      https://easychair.org/conferences/?conf=rapido2026</a> .
+    <a href="https://easychair.org/conferences/?conf=rapido2027">
+      https://easychair.org/conferences/?conf=rapido2027</a> .
     </p>
 
     <h2>Important dates</h2>
     <ul>
-      <li>Abstract submission deadline: <strong> Oct. 24th 2026</strong></li>
-      <li>Papers submission deadline: <strong> Oct. 31st 2026</strong></li>
-      <li>Papers notification to authors: <strong>Dec. 12th 2026</strong></li>
-      <li>Final version of accepted papers: <strong>Jan. 9th 2027</strong></li>
+      <li>Abstract submission deadline: <strong> Oct. 23th 2026</strong></li>
+      <li>Papers submission deadline: <strong> Oct. 30st 2026</strong></li>
+      <li>Papers notification to authors: <strong>Dec. 11th 2026</strong></li>
+      <li>Final version of accepted papers: <strong>Jan. 8th 2027</strong></li>
     </ul>
     <h2>Call for papers, PDF version</h2>
     <p>You can download a PDF version of the RAPIDO'27 call for papers
-    from <a href="images/CFP_RAPIDO_26.pdf">here</a>.
+    from <a href="images/CFP_RAPIDO_27.pdf">here</a>.
     </p>
     </section>
 
