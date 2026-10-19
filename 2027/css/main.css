@@ -1,0 +1,288 @@
+/* @import url("reset.css");
+
+body {
+	background: #F5F4EF;
+	text-align: justify;
+	width: 768px;
+	font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 87.5%;
+	line-height: 1.429;
+  color: #000305;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1 a:link {
+	text-decoration: none;
+}
+
+h2 {font-size: 1.571em} /* 22px */
+/* h3 {font-size: 1.429em} /* 20px */
+/* h4 {font-size: 1.286em} /* 18px */
+/* h5 {font-size: 1.143em} /* 16px */
+/* h6 {font-size: 1em} /* 14px */
+/*
+h2, h3, h4, h5, h6 {
+	font-weight: 400;
+	line-height: 1.1;
+	margin-bottom: .8em;
+} */
+
+/*
+	Name: Smashing HTML5
+	Date: July 2009
+	Description: Sample layout for HTML5 and CSS3 goodness.
+	Version: 1.0
+	Author: Enrique Ramírez
+	Autor URI: http://enrique-ramirez.com
+*/
+
+/* Imports */
+@import url("reset.css");
+/* @import url("global-forms.css"); */
+
+/***** Global *****/
+/* Body */
+	body {
+		background: #F5F4EF; /* url('../images/bg.png');*/
+		color: #000305;
+		font-size: 87.5%; /* Base font size: 14px */
+		font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		line-height: 1.429;
+		margin: 0;
+		padding: 0;
+		text-align: left;
+	}
+
+/* Headings */
+h2 {font-size: 1.571em}	/* 22px */
+h3 {font-size: 1.429em}	/* 20px */
+h4 {font-size: 1.286em}	/* 18px */
+h5 {font-size: 1.143em}	/* 16px */
+h6 {font-size: 1em}	/* 14px */
+
+h2, h3, h4, h5, h6 {
+	font-weight: 400;
+	line-height: 1.1;
+	margin-bottom: .8em;
+}
+
+/* Anchors */
+a {outline: 0;}
+a img {border: 0px; text-decoration: none;}
+a:link, a:visited {
+	color: #C74350;
+	padding: 0 1px;
+	text-decoration: underline;
+}
+a:hover, a:active {
+	background-color: #C74350;
+	color: #fff;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px #333;
+}
+
+/* Paragraphs */
+p {margin-bottom: 1.143em;}
+* p:last-child {margin-bottom: 0;}
+
+strong, b {font-weight: bold;}
+em, i {font-style: italic;}
+
+::-moz-selection {background: #F6CF74; color: #fff;}
+::selection {background: #F6CF74; color: #fff;}
+
+/* Lists */
+ul {
+	list-style: outside disc;
+	margin: 1em 0 1.5em 1.5em;
+}
+
+ol {
+	list-style: outside decimal;
+	margin: 1em 0 1.5em 1.5em;
+}
+
+dl {margin: 0 0 1.5em 0;}
+dt {font-weight: bold;}
+dd {margin-left: 1.5em;}
+
+/* Quotes */
+blockquote {font-style: italic;}
+cite {}
+
+q {}
+
+/* Tables */
+table {margin: .5em auto 1.5em auto; width: 98%;}
+
+	/* Thead */
+	thead th {padding: .5em .4em; text-align: left;}
+	thead td {}
+
+	/* Tbody */
+	tbody td {padding: .5em .4em;}
+	tbody th {}
+
+	tbody .alt td {}
+	tbody .alt th {}
+
+	/* Tfoot */
+	tfoot th {}
+	tfoot td {}
+	
+/* HTML5 tags */
+header, section, footer,
+aside, nav, article, figure, contact {
+    display: block;
+}
+
+.body {clear: both; margin: 0 auto; width: 800px;}
+img.right, figure.right {float: right; margin: 0 0 2em 2em; width=180px;}
+img.left, figure.left {float: left; margin: 0 2em 2em 0; width=180px;}
+
+/*
+	Header
+*****************/
+#banner {
+	margin: 0 auto;
+	padding: 2.5em 0 0 0;
+}
+
+	/* Banner */
+	#banner h1 {font-size: 3.571em; line-height: .6;}
+	#banner h1 a:link, #banner h1 a:visited {
+		color: #000305;
+		display: block;
+		font-weight: bold;
+		margin: 0 0 .2em .2em;
+		text-decoration: none;
+		width: 550px;
+		height: 150px;
+	}
+	#banner h1 a:hover, #banner h1 a:active {
+		background: none;
+		color: #C74350;
+		text-shadow: none;
+	}
+
+	#banner h1 strong {font-size: 0.36em; font-weight: normal; line-height: 0em; }
+
+/* Main Nav */
+#banner nav {
+	background: #000305;
+	/* font-size: 1.143em; */
+	font-size: 1.0em;
+	height: 40px;
+	/*height: 3em;*/
+	line-height: 30px;
+  margin: 3em auto 2em auto;
+	/*margin: 4em  auto 3em auto;*/
+	padding: 0;
+	text-align: center;
+	width: 800px;
+
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#banner nav ul {list-style: none; margin: 0 auto; width: 800px; padding-left: 0px; }
+#banner nav li {float: left; display: inline; margin: 0;}
+
+#banner nav a:link, #banner nav a:visited {
+	color: #fff;
+	display: inline-block;
+	height: 30px;
+	/*height: 3em;*/
+	padding: 5px 0.89em; /* use this padding if invited speakers exists */
+	/* padding: 5px 1.78em; */ /* otherwise use this one */
+	text-decoration: none;
+}
+#banner nav a:hover, #banner nav a:active,
+#banner nav .active a:link, #banner nav .active a:visited {
+	background: #C74451;
+	color: #fff;
+	text-shadow: none !important;
+}
+
+#banner nav li:first-child a {
+	border-top-left-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-webkit-border-top-left-radius: 5px;
+
+	border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+}
+
+#banner figure {
+	/* border: 2px solid #0000FF; */
+	float: right;
+	margin: 0.786em 2em 0 5em;
+	width: 150px;
+	/* height: 200px; */
+}
+
+#banner figure img { display: block; float: right; width: 100%}
+
+#banner figure a:link, #banner figure a:visited {
+	color: #F5F4EF;
+}
+#banner figure a:hover, #banner figure a:active {
+	background: none;
+	color: #F5F4EF;
+	text-shadow: none;
+}
+
+/*
+ * News
+ * *************/
+#news{
+  border-style: solid;
+  border-color: #C74350;
+  margin: 0 0 0 0;
+  padding: 10px;
+  width: 350px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+#news h2 {
+  margin: 0 0;
+  padding: 0 0;
+}
+
+#news p {
+  margin: 0 0;
+  padding: 0 0;
+}
+
+#news ul {
+  margin: 0 0;
+  padding: 0 0;
+}
+
+#news li {
+  margin: 0 1em;
+  padding: 0 1em;
+}
+
+/*
+	Footer
+*****************/
+#contentinfo {
+	padding-top: 2em; 
+	padding-bottom: 2em; 
+	text-align: center; /*right;}*/
+}
+
+#contentinfo contact {
+	font-size: 70%;
+}
